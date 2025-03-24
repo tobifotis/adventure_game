@@ -21,8 +21,8 @@ Choosing to swim results in being eaten by an alligator and losing the game, whi
 ## Rules
 - The player starts by choosing whether they want to play.
 - The player is asked to make decisions at each point, such as which direction to go or how to handle obstacles.
-- If the player makes a wrong decision (like falling off a cliff or getting eaten by an alligator), the game ends.
-- If the player makes the right decision (like finding the gold), they win the game.
+- If the player makes a wrong decision, the game ends.
+- If the player makes the right decision, they move onto the next level until they find the gold.
 - Invalid inputs will prompt the player to try again until a valid choice is made.
 
 <br> 
